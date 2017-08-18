@@ -2,12 +2,11 @@
 
 [![Documentation Status](https://readthedocs.org/projects/docker4drupal/badge/?version=latest)](http://docs.docker4drupal.org)
 [![Build Status](https://travis-ci.org/wodby/docker4drupal.svg?branch=master)](https://travis-ci.org/wodby/docker4drupal)
-[![Wodby Slack](http://slack.wodby.com/badge.svg)](http://slack.wodby.com)
-[![Wodby Twitter](https://img.shields.io/twitter/follow/wodbyhq.svg?style=social&label=Follow)](https://twitter.com/wodbyhq)
+[![Zixels Twitter](https://img.shields.io/twitter/follow/wodbyhq.svg?style=social&label=Follow)](https://twitter.com/zixels)
 
 ## Introduction
 
-Docker4Drupal is a set of docker images optimized for Drupal. Use docker-compose.yml file from this repository to spin up local environment on Linux, Mac OS X and Windows. 
+This is a set of docker images optimized for Drupal. Use docker-compose.yml file from this repository to spin up local environment on Linux, Mac OS X and Windows. This is based on Wodby docker4drupal and is intended for our internal use.
 
 Read [**Getting Started**](https://docker4drupal.readthedocs.io).
 
@@ -60,10 +59,6 @@ Supported Drupal versions: 6, 7, 8.
 ## Documentation
 
 Full documentation is available at https://docker4drupal.readthedocs.io.
-
-## Deployment
-
-Deploy docker-based Drupal stack to your own server via [![Wodby](https://www.google.com/s2/favicons?domain=wodby.com) Wodby](https://cloud.wodby.com/stackhub/ada51e9b-2204-45ee-8e49-a4151912a168/detail).
 
 ## License
 
