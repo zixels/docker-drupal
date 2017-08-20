@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/docker4drupal/badge/?version=latest)](http://docs.docker4drupal.org)
 [![Build Status](https://travis-ci.org/wodby/docker4drupal.svg?branch=master)](https://travis-ci.org/wodby/docker4drupal)
-[![Zixels Twitter](https://img.shields.io/twitter/follow/wodbyhq.svg?style=social&label=Follow)](https://twitter.com/zixels)
+[![Zixels Twitter](https://img.shields.io/twitter/follow/zixels.svg?style=social&label=Follow)](https://twitter.com/zixels)
 
 ## Introduction
 
