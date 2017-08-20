@@ -1,7 +1,7 @@
-site_name: Docker4Drupal Documentation
+site_name: Docker-Drupal Documentation
 
 repo_url: https://github.com/zixels/docker-drupal
-site_description: 'Docker4Drupal – Docker-based Drupal environment for local development'
+site_description: 'Docker-Drupal: Docker-based Drupal environment for local development'
 theme: readthedocs
 
 markdown_extensions:
