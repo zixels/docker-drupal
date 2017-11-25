@@ -1,7 +1,7 @@
-site_name: Docker-Drupal Documentation
+site_name: Docker4Drupal Documentation
 
-repo_url: https://github.com/zixels/docker-drupal
-site_description: 'Docker-Drupal: Docker-based Drupal environment for local development'
+repo_url: https://github.com/wodby/docker4drupal
+site_description: 'Docker4Drupal – Docker-based Drupal environment for local development'
 theme: readthedocs
 
 markdown_extensions:
@@ -30,3 +30,5 @@ pages:
     - 'Varnish': 'containers/varnish.md'
     - 'AthenaPDF': 'containers/athenapdf.md'
     - 'Rsyslog': 'containers/rsyslog.md'
+    - 'Webgrind': 'containers/webgrind.md'
+    - 'Blackfire': 'containers/blackfire.md'
